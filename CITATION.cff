@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite the archived dataset and the associated article."
 title: "Spartina alterniflora distribution along the coast of China, 2025"
 type: dataset
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-08
 authors:
   - family-names: Chen
@@ -26,4 +26,3 @@ keywords:
   - Sentinel-2
   - China
 license: CC-BY-4.0
-
