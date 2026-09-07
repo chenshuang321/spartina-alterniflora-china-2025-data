@@ -40,4 +40,6 @@ The dataset is released under the Creative Commons Attribution 4.0 International
 
 ## Citation
 
-Use `CITATION.cff`. After Zenodo assigns the data DOI, update the citation metadata and the manuscript's Data and software availability statement.
+Archived dataset release: [10.5281/zenodo.22648322](https://doi.org/10.5281/zenodo.22648322).
+
+Use the full metadata in `CITATION.cff` when citing this dataset.
