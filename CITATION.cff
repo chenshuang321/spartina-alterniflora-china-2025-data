@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the archived dataset and the associated article."
+title: "Spartina alterniflora distribution along the coast of China, 2025"
+type: dataset
+version: 1.0.0
+date-released: 2026-09-08
+authors:
+  - family-names: Chen
+    given-names: Gang
+  - family-names: Yao
+    given-names: Xiaojing
+  - family-names: Liu
+    given-names: Yalan
+  - family-names: Jiao
+    given-names: Yue
+  - family-names: Wang
+    given-names: Dacheng
+  - family-names: Xie
+    given-names: Baohua
+  - family-names: Zhou
+    given-names: Xiaocheng
+keywords:
+  - Spartina alterniflora
+  - invasive species
+  - coastal wetland
+  - Sentinel-2
+  - China
+license: CC-BY-4.0
+

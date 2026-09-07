@@ -1,0 +1,23 @@
+{
+  "title": "Spartina alterniflora distribution along the coast of China, 2025",
+  "description": "Polygon distribution dataset derived from Sentinel-2 imagery using random-forest probability mapping and Attention ResU-Net spatial refinement.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {"name": "Chen, Gang"},
+    {"name": "Yao, Xiaojing"},
+    {"name": "Liu, Yalan"},
+    {"name": "Jiao, Yue"},
+    {"name": "Wang, Dacheng"},
+    {"name": "Xie, Baohua"},
+    {"name": "Zhou, Xiaocheng"}
+  ],
+  "keywords": [
+    "Spartina alterniflora",
+    "coastal wetland",
+    "Sentinel-2",
+    "invasive species",
+    "China"
+  ]
+}
